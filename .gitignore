@@ -1,0 +1,7 @@
+.env
+.env.local
+node_modules/
+uploads/
+media/
+.DS_Store
+Thumbs.db
