@@ -1,3 +1,13 @@
+---
+title: ClipStudio
+emoji: 🎬
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_port: 7860
+short_description: AI video clipper, auto-captions, and B-roll editor
+---
+
 # ClipStudio — editor + AI in one
 
 Everything in one folder. The server hosts the editor **and** runs the AI, so you just add your API keys and start it.
